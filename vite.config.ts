@@ -17,7 +17,7 @@ export default defineConfig((env) => {
       VitePWA({
         injectRegister: 'auto',
         manifest: {
-          name: 'chatGPT',
+          name: 'Kais AI',
           short_name: 'chatGPT',
           icons: [
             { src: 'pwa-192x192.png', sizes: '192x192', type: 'image/png' },
